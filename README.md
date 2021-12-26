@@ -1,24 +1,26 @@
-# calculator
+### calculator 
 
-## Project setup
-```
-yarn install
-```
+## Click this link to Preview this code
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+https://naraja-calculator.netlify.app/
 
-### Compiles and minifies for production
-```
-yarn build
-```
 
-### Lints and fixes files
-```
-yarn lint
-```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
