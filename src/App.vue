@@ -20,7 +20,7 @@
       <div @click="append('3')" class="button">3</div>
       <div @click="add" class="operator">+</div>
       <div @click="append(0)" class="button">0</div>
-      <div @click="del" class="operator">DEL</div>
+      <div @click="del" class="button">DEL</div>
 
       <div @click="dot" class="button">.</div>
       <div @click="equal" class="operator">=</div>
@@ -189,6 +189,17 @@ export default {
 .operator {
   background: chartreuse;
   color: #2c3e50;
+  rder-radius: 50px;
+
+  margin: 5px;
+
+  padding: 20px 5px 20px 5px;
+
+  margin-top: 20px;
+
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.4), 0 6px 20px 0 rgba(0, 0, 0, 0.4);
+
+
 }
 .operator:hover {
   background: rgb(92, 184, 0);
