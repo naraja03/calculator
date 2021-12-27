@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h1>Calculator!</h1>
+    <h1>NARAJA CALCULATOR</h1>
     <div class="calculator">
       <div class="display">{{ current || "0" }}</div>
       <div @click="clear" class="button">AC</div>
