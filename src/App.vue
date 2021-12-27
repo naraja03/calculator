@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h1>Calculator!</h1>
+    <h1>Naraja CALCULATOR</h1>
     <div class="calculator">
       <div class="display">{{ current || "0" }}</div>
       <div @click="clear" class="button">AC</div>
@@ -154,6 +154,7 @@ export default {
   padding: 10px 5px;
   border-radius: 30px;
   box-shadow: 0px 0px 20px 0px rgba(255, 238, 0, 0.246);
+  
 }
 .button {
   background: rgb(77, 77, 77);
