@@ -189,7 +189,7 @@ export default {
 .operator {
   background: chartreuse;
   color: #2c3e50;
-  rder-radius: 50px;
+  border-radius: 50px;
 
   margin: 5px;
 
